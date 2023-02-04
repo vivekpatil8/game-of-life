@@ -41,7 +41,6 @@
                 <version>2.11</version>
                 <configuration>
                     <skip>true</skip>
-                    <testFailureIgnore>true</testFailureIgnore>
                     <forkMode>once</forkMode>
                 </configuration>
                 <executions>
